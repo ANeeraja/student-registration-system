@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: navy;
+}
+
+input {
+    width: 250px;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
